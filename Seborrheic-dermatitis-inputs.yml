@@ -1,0 +1,30 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/seborrheic-dermatitis-pityriasis---primary.py
+inputModule3:
+  class: File
+  path: python/seborrheic-dermatitis-seborrhoea---primary.py
+inputModule4:
+  class: File
+  path: python/seborrheic-dermatitis-capitis---primary.py
+inputModule5:
+  class: File
+  path: python/seborrheic-dermatitis-infantile---primary.py
+inputModule6:
+  class: File
+  path: python/seborrheic-dermatitis-leiner's---primary.py
+inputModule7:
+  class: File
+  path: python/seborrheic-dermatitis---primary.py
+inputModule8:
+  class: File
+  path: python/seborrhoeic-seborrheic-dermatitis-dermatitis---secondary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
